@@ -1,0 +1,7 @@
+main: com.vikkcraft.GladeNuker
+name: GladeNuker
+author: vemacs
+version: 1.0
+permissions:
+  gladenuker.bypass:
+    default: op
